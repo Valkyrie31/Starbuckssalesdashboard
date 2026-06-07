@@ -28,5 +28,3 @@ An interactive **Microsoft Excel dashboard** designed to analyze sales performan
 - Conditional Formatting
 
 
-**Vanika Kapoor**  
-Aspiring Data Analyst | Excel | SQL | Power BI
