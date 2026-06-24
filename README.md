@@ -29,7 +29,7 @@ An interactive **Microsoft Excel dashboard** designed to analyze sales performan
 
   ##  Dashboard Preview
 
-![Dashboard Preview](starbucks_dashboard.png)
+![Dashboard Preview](./starbucks_dashboard.png)
 
 
 
